@@ -1,2 +1,2 @@
 # Discord_capitalize
-Capitalize letters by using emoji
+Capitalize letters by using the discord emoji
